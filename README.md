@@ -1,7 +1,10 @@
 # Installation in Anaconda
 
-1. run anaconda prompt as admin
-2. look for the right mirror according to the local version of python, with
+#1. 
+run anaconda prompt as admin
+
+#2. 
+look for the right mirror according to the local version of python, with
 
 anaconda search -t conda xgboost
    
@@ -172,5 +175,6 @@ and DataFlow
 
 So I know I have to use for example "mikesilva" for my python 3.6.
 
-3. Run on prompt:
+#3. 
+Run on prompt:
   conda install -c mikesilva xgboost

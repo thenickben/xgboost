@@ -55,14 +55,14 @@ and DataFlow
      enneamer/xgboost          |     0.60 | conda           | linux-64        | py35_0, py27_0
      floriangeigl/xgboost      |   0.4a30 | conda           | linux-64        | py27_1, py27_0
                                           : XGBoost Python Package
-======================
 
-|PyPI version| |PyPI downloads|
 
-Installation
-------------
 
-We are on `PyPI <https://pypi.python.org/pypi/xgboost>`__ now. For
+
+>Installation
+
+
+>We are on `PyPI <https://pypi.python.org/pypi/xgboost>`__ now. For
 stable version, please install using pip:
 
 -  ``pip install xgboost``
@@ -84,7 +84,7 @@ For up-to-date version, please install from github.
    from Kaggle Otto Forum.
 
 Examples
---------
+
 
 -  Refer also to the walk through example in `demo
    folder <../demo/guide-python>`__
@@ -93,7 +93,7 @@ Examples
    script <../demo/kaggle-higgs/speedtest.py>`__ on this dataset.
 
 Note
-----
+
 
 -  If you want to build xgboost on Mac OS X with multiprocessing support
    where clang in XCode by default doesn't support, please install gcc
@@ -112,12 +112,12 @@ Note
    :target: https://pypi.python.org/pypi/xgboost/
 
      hcarvalhoalves/xgboost    |     0.47 | conda           | osx-64          | py27_0
-                                          : Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
+                                          : Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for >Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
      hivmmer/xgboost           |      0.7 | conda           | linux-64        | py36h6bb024c_0
                                           : eXtreme Gradient Boosting
      intel/xgboost             |      0.7 | conda           | linux-64        | py36_0, py27_0
                                           : Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for
-Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink
+>Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink
 and DataFlow
 
      jjhelmus/_py-xgboost-mutex |      2.0 | conda           | linux-64, win-64 | cpu_0, gpu_0
@@ -161,13 +161,14 @@ and DataFlow
      softwaremechanic/xgboost  |    0.6a2 | conda           | linux-64        | py35_0
      upstart/xgboost           |      0.6 | conda           | linux-64        | py36_0, py36he1ec16c_0, py36hcd415c4_0
                                           : Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for
-Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink
+>Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink
 and DataFlow
 
      veltin/xgboost            |      dev | conda           | linux-64        | py27_3
      wenlong/r-xgboost         |    0.4_4 | conda           | linux-64        | r3.2.2_0
      wvlammeren/r-xgboost      |    0.6_4 | conda           | linux-64        | r3.3.2_0
-Found 67 packages
+>Found 67 packages
+
 
 So I know I have to use for example "mikesilva" for my python 3.6.
 

@@ -7,8 +7,8 @@ anaconda search -t conda xgboost
    
 In my case it gave the following results:
 
-Using Anaconda API: https://api.anaconda.org
-Packages:
+>Using Anaconda API: https://api.anaconda.org
+>Packages:
      Name                      |  Version | Package Types   | Platforms       | Builds
      ------------------------- |   ------ | --------------- | --------------- | ----------
      Friend/xgboost            |    0.6a2 | conda           | linux-64        | py27_0
